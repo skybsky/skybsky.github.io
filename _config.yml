@@ -8,7 +8,7 @@
 # Site settings
 title: Anton Skibski
 email: zoomzoom171@gmail.com
-description: > Telegram @skybsky
+description: Telegram @skybsky
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
